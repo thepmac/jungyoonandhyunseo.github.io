@@ -1,0 +1,24 @@
+html {
+
+}
+
+body {
+	font-size: 8px;
+	margin: 0;
+	padding: 0;
+	background-color: white;
+}
+
+#intro {
+	margin:auto;
+	font-size: 5em;
+	color: black;
+	text-align: center;
+}
+
+.main-container {
+	display: block;
+	width: 100%;
+	height: 100%;
+	margin: auto;
+}
